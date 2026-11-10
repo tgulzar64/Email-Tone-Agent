@@ -167,7 +167,7 @@ Run `node server.js` on any Node-capable server. Build the frontend with `npm ru
 
 ## Built by
 
-**Esteban** — Babson College, November 2025
+**Talha Gulzar** — Babson College, November 2025
 
 Powered by [NeuralSeek](https://neuralseek.com) · Built on Replit
 
